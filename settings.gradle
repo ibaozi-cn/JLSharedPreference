@@ -1,0 +1,3 @@
+include ':mmkv'
+include ':app'
+rootProject.name = "JLSharedPreference"
